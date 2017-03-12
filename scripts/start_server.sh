@@ -1,3 +1,2 @@
 #!/bin/bash
-service httpd start
-
+apache2ctl -k start
